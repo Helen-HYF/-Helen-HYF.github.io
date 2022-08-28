@@ -35,4 +35,4 @@
 
 ## Did You Need To Add Things That Weren't In Your Strategy or Remove Extra Steps?
 
-- i cheanged the logo based on my reference.
+- i cheanged the logo based on new reference.

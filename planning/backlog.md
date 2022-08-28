@@ -66,7 +66,7 @@ will complete the user experience, but are not necessary:
 - [ ] As an customer I can click on the photo link and it will show me the
       necessary content.
 
-> There is a hoto with descriptions in order to convey more information about
+> There is a photo with descriptions in order to convey more information about
 > the content.
 
 ## Could-Haves

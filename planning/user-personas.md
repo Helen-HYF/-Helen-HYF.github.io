@@ -11,5 +11,5 @@ their
 - > type. Also would like to know the neerest salon and available styles with
   > photo.
 - **Needs/Goals**: location of the shops and services given.
-- **Frustrations**: finding the nearest and productes based on hair type.
+- **Frustrations**: finding the nearest and productes based on her hair type.
 - **Scenario 1**: Helen wants to do her hair.
