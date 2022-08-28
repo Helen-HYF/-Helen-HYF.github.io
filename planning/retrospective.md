@@ -31,10 +31,8 @@
 
 ## What Parts Of Your Plan Did Not Work Out Well?
 
-- The difficulty of being available at the same time for a virtual
-  meeting.
+- The difficulty of being available at the same time for a virtual meeting.
 
 ## Did You Need To Add Things That Weren't In Your Strategy or Remove Extra Steps?
 
 - i cheanged the logo based on my reference.
-  

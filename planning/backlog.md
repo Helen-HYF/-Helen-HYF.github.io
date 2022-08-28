@@ -28,7 +28,8 @@ are necessary for basic usability:
 
 - [ ] As an customer I can easily tell what the page is all about
 
-> the story. The website also captures a vibrant themes which gives it better look.
+> the story. The website also captures a vibrant themes which gives it better
+> look.
 
 - [ ] As an customer I can easily find the main content of the website
 
@@ -41,11 +42,11 @@ will complete the user experience, but are not necessary:
 
 ### Main information
 
-- [ ] As a customer I can find appropriate information about hair salons which is
-      relevant and some describing images.
+- [ ] As a customer I can find appropriate information about hair salons which
+      is relevant and some describing images.
 
-> The main content provides information about hair salons as well as links to further
-> resources available online
+> The main content provides information about hair salons as well as links to
+> further resources available online
 
 - [ ] As an customer I can easily read and visually appreciate the contents of
       the website
@@ -65,8 +66,8 @@ will complete the user experience, but are not necessary:
 - [ ] As an customer I can click on the photo link and it will show me the
       necessary content.
 
-> There is a hoto with descriptions in order to convey more information about the
-> content.
+> There is a hoto with descriptions in order to convey more information about
+> the content.
 
 ## Could-Haves
 
